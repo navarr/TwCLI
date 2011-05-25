@@ -1,0 +1,21 @@
+body,input,tt
+{
+	font-family: "Lucida Console";
+	font-size: 9pt;
+	background-color: #000000;
+	color: #BBBBBB;
+}
+a,a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.otherUser,.mention
+{
+	color: #FFFFFF;
+}
+a:hover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}

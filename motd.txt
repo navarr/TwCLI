@@ -1,0 +1,22 @@
+___________       _________ .____    .___ 
+\__    ___/_  _  _\_   ___ \|    |   |   |
+  |    |  \ \/ \/ /    \  \/|    |   |   |
+  |    |   \     /\     \___|    |___|   |
+  |____|    \/\_/  \______  /_______ \___|
+                          \/        \/    
+
+  Welcome to TwCLI.  Make sure to behave yourself!
+
+  Type /HELP for information about commands, Or if you're a
+  UNIX nerd, MAN will do the same thing.
+
+  Thanks, and be sure to enjoy your stay!
+
+  Latest News:
+  	- Individual Tweets Viewable by typing ^id_number ( example: ^20 )
+  	- Replies no longer need a command prefix, just type @user hello!
+  	- If you've enabled Geotagging on TwCLI, type setloc to update 
+  		your location setting on your profile to your latitude and longitude!
+  	- You can now REPLY TO, RT, or DELETE a message by its unique ^id
+  	- Try using your twitter profile as your theme! Type "THEMESET profile"  
+  	- View an @reply Thread using THREAD ^id

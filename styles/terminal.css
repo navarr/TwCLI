@@ -1,0 +1,88 @@
+/* Terminal theme for TwCLIS coded by Thundaboom (http://twitter.com/thundaboom) */
+body {
+	background-color:#1b1d1b;
+	color:#ff7090;
+	font-size:14px:#ff7090;
+}
+input {
+	border:1px solid #ff7090;
+	background-color:#1b1d1b;
+	color:#ff7090;
+}
+.otheruser {
+	color:#a5f063;
+}
+.hashtag {
+	color:#f0eb03;
+	text-decoration:none;
+	}
+	.hashtag:hover {
+	color:#f0eb03;
+	text-decoration:none;
+	border-right:1px dashed yellow;
+	}
+	.mentionContainer {
+		color:#f0cbee;
+		font-weight:bold;
+	}
+	.mention {
+		color:#a5f063;
+	}
+	.hyperlink:link {
+		color:#baa550;
+		text-decoration:none;
+	}
+		.hyperlink:hover {
+		color:#baa550;
+		border-color:#baa550;
+		text-decoration:none;
+		border-right:1px dashed;
+	}
+		.hyperlink:visited {
+		color:#574d25;
+		bordere-color:#574d25;
+		text-decoration:none;
+	}
+	.email {
+		color:#baa550;
+		text-decoration:none;
+	}
+	.email:hover {
+		color:#baa550;
+		text-decoration:none;
+		border-right:1px dashed #baa550;
+	}
+	.replyto {
+		color:#baa550;
+		text-decoration: none;
+	}
+	.replyto:hover {
+		color:#baa550;
+		text-decoration: none;
+		margin-right: 1px;
+	}
+	.markerDM {
+		color:#7bb1ed;
+		font-weight:bold;
+	}
+	a
+	{
+		margin-right: 1px;
+	}
+	a:hover
+	{
+		margin-right: 0px;
+	}
+	.private, .retweet
+	{
+		color: #f0eb03;
+	}
+	.start
+	{
+		font-size: 72pt;
+	}
+	.actual_content
+	{
+		font-size: 13pt;
+		font-family: Calibri, sans-serif;
+	}
