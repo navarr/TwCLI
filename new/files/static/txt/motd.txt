@@ -1,0 +1,14 @@
+___________       _________ .____    .___ 
+\__    ___/_  _  _\_   ___ \|    |   |   |
+  |    |  \ \/ \/ /    \  \/|    |   |   |
+  |    |   \     /\     \___|    |___|   |
+  |____|    \/\_/  \______  /_______ \___|
+                          \/        \/    
+
+  Welcome to TwCLI.  Please pay attention to the rate limiting
+  system and make sure to behave yourself!
+
+  Type /HELP for information about commands, Or if you're a
+  UNIX nerd, MAN will do the same thing.
+
+  Thanks, and be sure to enjoy your stay!
